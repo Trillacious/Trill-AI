@@ -1,0 +1,11 @@
+{
+  "name": "Trill AI",
+  "description": "High-performance multi-modal AI processing app powered by real-time streaming inference endpoints, configurable parameters, dark mode, token tracking, and local history.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
